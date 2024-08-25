@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=FFFFFF" />
 </div>
 
 <h3 align="center">🖥 IDE/Code Editors 🖥</h3>

@@ -8,7 +8,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" /> &nbsp
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=F05032" /> &nbsp
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032" /> &nbsp
 <img src="https://img.shields.io/badge/github-23121011.svg?style=for-the-badge&logo=Github&logoColor=181717" />
 </div>
 

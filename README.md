@@ -4,7 +4,7 @@
  -->
  
  <div align="center">
-<h2 align="center">📚 Languages 📚</h2>
+<h1 align="center">📚 Languages 📚</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&theme=light)](https://skillicons.dev)
 

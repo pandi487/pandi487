@@ -1,6 +1,6 @@
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#A8B9CC" />
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#00599C" />
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#FFFFFF" />
+<img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=react&logoColor=#A8B9CC" />
+<img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=react&logoColor=#00599C" />
+<img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=react&logoColor=#FFFFFF" />
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pandi487)](https://solved.ac/pandi487)

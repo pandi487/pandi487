@@ -21,21 +21,18 @@
 
 <h3 align="center">⚙ Tools & Softwares 🛠</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=FFFFFF" />
 </div>
 
-<h1 align="Left"> 
- OS
+
  
- [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
 
-</h1>
 
-<h3 align="center">🖥 IDE/Code Editors 🖥</h3> 
+<h3 align="center">🖥 IDE/Code Editors 🖥</h3> &nbsp<h1 align="Left"> OS </h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />

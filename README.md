@@ -4,10 +4,15 @@
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF" /> &nbsp
 
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Direct%20X%20-%236DA252.svg?style=for-the-badge&logo=DirectX&logoColor=FFFFFF" />
+
 </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
+ 
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
 </div>

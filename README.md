@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />
 </div>
 
-<h3 align="center">📷 Graphics 📷</h3>
+<h3 align="center">🎥 Graphics 📷</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Direct%20X%20-%236DA252.svg?style=for-the-badge&logo=DirectX&logoColor=FFFFFF" />
 </div>

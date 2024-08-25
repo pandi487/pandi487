@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF" /> &nbsp
  -->
  
- <div align="center">
-<h1 align="center">📚 Languages 📚</h1>
+<div align="center">
+<h3 align="center">📚 Languages 📚</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&theme=light)](https://skillicons.dev)
 

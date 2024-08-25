@@ -1,3 +1,4 @@
+<h3 align="center"></h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=C&logoColor=FFFFFF" /> &nbsp
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF" /> &nbsp
@@ -8,8 +9,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" /> &nbsp
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032" /> &nbsp
-<img src="https://img.shields.io/badge/github-23121011.svg?style=for-the-badge&logo=Github&logoColor=181717" />
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" /> &nbsp
+<img src="https://img.shields.io/badge/github-23121011.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
 </div>
 
 <div align="center">

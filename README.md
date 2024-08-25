@@ -28,12 +28,14 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=FFFFFF" />
 </div>
 
-<h3 align="center">🖥 IDE/Code Editors 🖥</h3> 
-<h3 align="center"> 
+<h2 align="Left"> 
 
  [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
  OS
-</h3>
+</h2>
+
+<h3 align="center">🖥 IDE/Code Editors 🖥</h3> 
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />

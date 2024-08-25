@@ -29,14 +29,16 @@
 </div>
 
 
- 
 
-
-<h3 align="center">🖥 IDE/Code Editors 🖥</h3> &nbsp<h1 align="Left"> OS </h1>
+<h3 align="center">🖥 IDE/Code Editors 🖥            OS </h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=FFFFFF" />
+
+ [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
+
+
 </div>
 
 

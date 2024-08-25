@@ -4,8 +4,6 @@
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF" /> &nbsp
  
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />

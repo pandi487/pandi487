@@ -8,8 +8,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" /> &nbsp
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" /> &nbsp
+<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
 </div>
 

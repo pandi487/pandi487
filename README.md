@@ -10,8 +10,12 @@
 
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Direct%20X%20-%236DA252.svg?style=for-the-badge&logo=DirectX&logoColor=FFFFFF" />
-
 </div>
+
+<h3 align="center">🖥⌨📚🖨📷⚙🛠🕹 Game Engine 🕹</h3>
+<h3 align="center">📷 Graphics 📷</h3>
+<h3 align="center">⚙ Tools 🛠</h3>
+<h3 align="center">🖥 IDE/Code Editors 🖥</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />

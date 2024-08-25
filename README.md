@@ -7,14 +7,16 @@
 </div>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=FFFFFF" />
 </div>
 
 <div align="center">
-  
+ 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=FFFFFF" />
+
 </div>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pandi487)](https://solved.ac/pandi487)

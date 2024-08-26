@@ -39,7 +39,7 @@
 
 </div>
 
- <h1 align="Left"> OS </h1>
+ <h3 align="Center"> OS </h3>
 
  [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
 

@@ -30,13 +30,6 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=FFFFFF" />
 </div>
 
-
- <!--
- <h1 align="Left"> OS </h1>
-
- [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
-
- -->
  
 <h3 align="center">🖥 IDE/Code Editors 🖥</h3>
 
@@ -45,6 +38,11 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=FFFFFF" />
 
 </div>
+
+ <h1 align="Left"> OS </h1>
+
+ [![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
